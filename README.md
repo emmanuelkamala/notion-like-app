@@ -30,7 +30,7 @@ The prototype should function exactly like in the images.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-You need to have npm and installed<br />
+You need to have <strong>npm</strong> installed<br />
 Also, you need to have installed and configured <a href="https://git-scm.com/">Git</a> 
 
 
@@ -43,7 +43,7 @@ Clone the repo and then install the needed packages:<br />
 
  # Run the app in a local server:
 
- npm start
+ <strongn>npm start</strong>
 
  It will open the browser, app will open and you can start to interact with the app
 
