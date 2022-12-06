@@ -23,7 +23,7 @@ The prototype should function exactly like in the images.
 
 ## Live Demo
 
-<a href="">Live version</a>
+<a href="https://notiontext.netlify.app/">Live version</a>
 
 ## Getting Started
 
@@ -44,6 +44,8 @@ Clone the repo and then install the needed packages:<br />
  # Run the app in a local server:
 
  npm start
+
+ It will open the browser, app will open and you can start to interact with the app
 
 
 ## Authors
