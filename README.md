@@ -43,7 +43,7 @@ Clone the repo and then install the needed packages:<br />
 
  # Run the app in a local server:
 
- <strongn>npm start</strong>
+ <strong>npm start</strong>
 
  It will open the browser, app will open and you can start to interact with the app
 
