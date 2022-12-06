@@ -1,70 +1,65 @@
-# Getting Started with Create React App
+# Build a simple notion like text editor
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Your goal is to recreate what we have outlined in Figma in a live, working prototype, deployed to Heroku or hosted somewhere online for easy access/testing. 
 
-## Available Scripts
+You will be building a Notion-like editor, but only the H1 heading component. So it’s not much of an editor, but rather an app that lets you write anywhere and convert your content into H1. 
 
-In the project directory, you can run:
+Figma Prototype:  https://www.figma.com/file/tw8CNEl69jYeqPHxfBxf38/Helpjuice-Front-End-Developer-Test-Project?node-id=0%3A1 
 
-### `npm start`
+If you cannot open the Figma Prototype, we have also attached the images at the end of this document. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Please note, that the figma prototype is there for you to understand the idea, but not everything (such as editing content) is outlined.  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The prototype should function exactly like in the images. 
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![screenshot](https://github.com/emmanuelkamala/notion-like-app/raw/main/docs/notion.png)
 
-### `npm run build`
+## Built With
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- JSX
+- ReactJS
+- CSS
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Live Demo
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<a href="">Live version</a>
 
-### `npm run eject`
+## Getting Started
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+To get a local copy up and running follow these simple example steps.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Prerequisites
+You need to have npm and installed<br />
+Also, you need to have installed and configured <a href="https://git-scm.com/">Git</a> 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Setup
 
-## Learn More
+# Install
+Clone the repo and then install the needed packages:<br />
+ cd into the app's folder, then open terminal and run: <br />
+ <strong>npm install</strong>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+ # Run the app in a local server:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+ npm start
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Authors
 
-### Analyzing the Bundle Size
+👤 **Author**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- Github: [@githubhandle](https://github.com/emmanuelkamala)
+- Twitter: [@twitterhandle](https://twitter.com/ejkamala)
+- Linkedin: [linkedin](https://linkedin.com/emmanuelkamala)
 
-### Making a Progressive Web App
+## 🤝 Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Contributions, issues and feature requests are welcome!
 
-### Advanced Configuration
+Feel free to check the [issues page](issues/).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Show your support
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Give a ⭐️ if you like this project!
