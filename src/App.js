@@ -5,7 +5,7 @@ function App() {
     <div>
       <h1 className="Logo">notion</h1>
       <p className="Intro">
-        Helloo{" "}
+        Hi{" "}
         <span role="img" aria-label="greetings" className="Emoji">
           👋
         </span>{" "}
